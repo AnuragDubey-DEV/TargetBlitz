@@ -1,6 +1,7 @@
 ![Untitled design-modified](https://user-images.githubusercontent.com/99970131/206638377-2868df6f-5f1c-429e-8b9d-8a05ff336d1a.png)
 
-Play On Browser : https://adarshdubey.itch.io/targetblitz
+Play On Browser : https://adarshdubey.itch.io/targetblitz 
+
 Download APK : https://adarshdubey.itch.io/targetblitz
 
 # TargetBlitz
