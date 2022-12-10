@@ -1,4 +1,5 @@
-![Untitled design-modified](https://user-images.githubusercontent.com/99970131/206638377-2868df6f-5f1c-429e-8b9d-8a05ff336d1a.png)
+
+![Capture](https://user-images.githubusercontent.com/99970131/206849196-63f3f637-4e59-4df2-b6f9-24f824a81d2f.PNG)
 
 Play On Browser : https://adarshdubey.itch.io/targetblitz 
 
