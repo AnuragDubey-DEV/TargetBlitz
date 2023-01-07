@@ -95,7 +95,9 @@ public class PlayerInput : MonoBehaviour
     }
     public void ResetStats()
     {
-        Accuracy = 0; BestReactionTime = 10; AverageReactionTime = 10;
+        Accuracy = 0;
+        BestReactionTime = 10;
+        AverageReactionTime = 10;
         NoOfAttempts = 0;
         NoOfSuccesfulHits = 0;
         TotalReactionTime = 0;
@@ -109,16 +111,3 @@ public class PlayerInput : MonoBehaviour
     }
 }
 
-
-/*
-
-You could add more challenges or obstacles for the player to overcome, such as obstacles that they have to avoid or targets that move in different patterns. This would add variety and keep the game interesting.
-
-You could allow the player to upgrade their abilities or unlock new weapons or power-ups. This could give them an edge against the targets and make the game more exciting.
-
-You could add a leaderboard or some other type of competition to the game. This could motivate players to compete against each other and try to beat each other's high scores.
-
-You could add more visual and audio effects to the game. This could make the game more immersive and engaging for the player.
-
-You could add more levels to the game, with each level increasing in difficulty. This would give the player more content to enjoy and would keep them engaged for longer.
-*/
